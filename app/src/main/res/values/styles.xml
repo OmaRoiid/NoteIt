@@ -1,0 +1,27 @@
+<resources>
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/darker_gray</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="ToolbarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <!-- the color of the menu overflow menu -->
+        <item name="android:itemTextAppearance">@style/TextAppearance</item>
+        <!-- toolbar title color -->
+        <item name="android:textColorPrimary">@color/colorTextTitle</item>
+        <!-- color of menu overflow icon (three vertical dots) -->
+        <item name="android:textColorSecondary">@color/colorTextTitle</item>
+    </style>
+
+    <style name="TextAppearance">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+</resources>

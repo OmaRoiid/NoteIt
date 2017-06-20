@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.0_08de9dfd8bdbf9556078b369bdc38465969bf17e\classes.dex" />
+    </item>
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_21eaef91c824722155a2a851616278722bd65c4b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Omar_Salem\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_029262ae6b9d3d409a58d17bf287ce673b02a05e\classes.dex" />
+    </item>
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_600ad472dd31e359829e7433a0480221041d112b\classes.dex" />
+    </item>
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="8d5e58d75d49cfb3932be1f486e5fe1a5d52c8ed">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e3318360eb5ce469f081c938fa4655580a172ba4\classes.dex" />
+    </item>
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_cc98feb8d6c15bd209065b2754af569059cd952c\classes.dex" />
+    </item>
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_1fd68652ec7a17fa282726f86403d16bf10397a7\classes.dex" />
+    </item>
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_bd2290e63476566764fc860a565b60a0223eea5b\classes.dex" />
+    </item>
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.0_c3e268e45164311c8bf978d807d8de811ce1ba95\classes.dex" />
+    </item>
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="c7f79e3b75be15ba7aff08df37d774479b32099d">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_59a9a8ee85961c0c1dc2a82078ab00bc9f884b3e\classes.dex" />
+    </item>
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_d166055b083d9c5aa1be21ebf4305b90bc7cb75c\classes.dex" />
+    </item>
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.0_62f105ad99f01b2cccfa2a22cf4550f51b6684bf\classes.dex" />
+    </item>
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_ab558bf361e146f0e39abd223050f07f703283e0\classes.dex" />
+    </item>
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_d8c609b270680cf88e1d86679a9c9486fb5ea4ad\classes.dex" />
+    </item>
+    <item
+        jar="E:\NoteIt-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\NoteIt-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_36df0b3da3c9d58278e54b41aa5453a09f110cab\classes.dex" />
+    </item>
+
+</items>
